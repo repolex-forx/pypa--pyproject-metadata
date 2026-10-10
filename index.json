@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "pyproject-metadata",
+  "versions": [
+    {
+      "commit": "c78be647e3d747b007996cdaa8899b2b4f533b84",
+      "tag": "",
+      "parsed_at": "2026-10-10T23:15:11.031520+00:00"
+    }
+  ]
+}
